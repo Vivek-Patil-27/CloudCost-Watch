@@ -1,0 +1,8 @@
+# Files NOT uploaded to Google Cloud
+.gcloudignore
+backups/
+screenshots/
+__pycache__/
+*.db
+*.zip
+CloudCost_Watch_v3.py
